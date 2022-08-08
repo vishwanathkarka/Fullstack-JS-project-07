@@ -127,3 +127,24 @@ left:60px;
     font-family: "Fredoka One";
     color: white;
 }
+.right-section .dots{
+    display: flex;
+    justify-content: center;
+
+}
+.right-section .dots .dot {
+width:25px;
+height: 25px;
+border-radius: 50%;
+margin:10px;
+}
+
+.right-section .dots .yellow-dot{
+    background: #fbd104;
+}
+.right-section .dots .tomato-dot {
+background: #fe5e35;
+}
+.right-section .dots .black-dot {
+    background: #000000;
+}
