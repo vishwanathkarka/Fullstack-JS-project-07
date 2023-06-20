@@ -39,6 +39,9 @@ font-weight: 200;
 }
 .intro-section{
     display: flex;
+    height: 90vh;
+    align-items:center;
+    justify-content: center;
 }
 .intro-section .left-section h3 {
    font-size: 2rem;
